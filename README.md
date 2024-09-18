@@ -22,6 +22,8 @@ stlye.css: Contains the styling for the login form, ensuring it resembles the Fa
     
 2. Open the `index.html` file in your web browser to view the form.
 3. Customize the styles by modifying the `style.css` file as needed.
+4. 
+![Screenshot 2024-09-18 133105](https://github.com/user-attachments/assets/e319e13f-e00a-4142-8888-e2c481779147)
 
 ## Future Improvements
 
