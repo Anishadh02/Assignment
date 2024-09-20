@@ -1,4 +1,4 @@
-# Facebook Login Form Clone
+# USER Login Form Clone
 
 This project is a clone of the Facebook login page, created using **HTML** and **CSS**. The layout includes two main sections: a left side that shows the Facebook branding and a right side with a functional login form.
 
